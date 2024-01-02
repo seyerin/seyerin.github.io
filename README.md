@@ -1,1 +1,1 @@
-[# seyerin.github.io](https://seyerin.github.io/)https://seyerin.github.io/
+[# seyerin.github.io] https://seyerin.github.io/
